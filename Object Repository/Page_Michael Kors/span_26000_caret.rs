@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_26000_caret</name>
+   <tag></tag>
+   <elementGuidId>3ac64913-f602-4aea-b796-45f98e44509c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopping-bag-edit-item-modal']/div/div/div[2]/div[3]/div[4]/div/div[2]/div[2]/div/div[2]/div/div/div/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-bag-edit-item-modal&quot;)/div[@class=&quot;modal-dialog kor-modal__dialog&quot;]/div[@class=&quot;modal-content kor-modal__content&quot;]/div[@class=&quot;modal-body kor-modal__content-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 pull-right col-sm-6&quot;]/div[@class=&quot;v-list&quot;]/div[@class=&quot;row row--table row--no-gutter-margin qvModelUpdate&quot;]/div[@class=&quot;col--no-gutters col--table col--table-md-4 col--table-padded&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;form-group select-container&quot;]/div[@class=&quot;input-validation-container&quot;]/div[@class=&quot;btn-group bootstrap-select new_ay_dropdown form-control form-control--black&quot;]/button[@class=&quot;main_dropdown_new_ay btn dropdown-toggle btn-default&quot;]/span[@class=&quot;caret&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopping-bag-edit-item-modal']/div/div/div[2]/div[3]/div[4]/div/div[2]/div[2]/div/div[2]/div/div/div/button/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

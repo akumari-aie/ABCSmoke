@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account_TC_015</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45f26c2a-4a2d-4be3-9076-246cbd1ee027</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that user able to add and edit the address to the profile'</defaultValue>
+      <description></description>
+      <id>66131c47-4276-4152-9e43-c51c9cd385bb</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

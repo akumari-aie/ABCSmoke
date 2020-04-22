@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Look_TC_037</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>967c3172-ba58-4866-8be5-29cd36d003a6</testCaseGuid>
+   <variable>
+      <defaultValue>'To Verify that user is able to navigate from a Member PDP to Master PDP from Shop Now link.'</defaultValue>
+      <description></description>
+      <id>33f1546c-be67-4743-b468-fbd2fe729bb9</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

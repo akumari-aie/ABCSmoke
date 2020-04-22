@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout_TC_043_044_045</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58b3f815-7842-409a-8000-db04695cc48b</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that user able to Add shiiping Through QAS and user able to Enter emmail in shipping and Edit shippingand Billing address check out pages'</defaultValue>
+      <description></description>
+      <id>7eada498-46ec-48d4-bd17-8282b8d6725f</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

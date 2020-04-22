@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MK Prod</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>0434498c-f00d-4e3a-ba23-73a38a956c40</testSuiteGuid>
+   <testCaseLink>
+      <guid>ad5d26a7-7457-4feb-b4c2-138fa09480b9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/Account_TC_017_021_031</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>09def500-4c08-4358-a4c4-8ca770b06a9f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a308ee9-fae8-4cd1-837a-3b83eded046d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/Account_TC_016</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f1e0b4d3-4870-4622-8963-225443177dd2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1fece5a2-cb78-41e2-b288-2b4fb869df02</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/Account_TC_015</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>66131c47-4276-4152-9e43-c51c9cd385bb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7c91a68e-128d-4dff-a65d-2a65ed85bf90</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/Account_TC_014</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>04c542b8-6282-4d71-b576-91d6e2fbacd1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9d9d16ab-311f-40ff-ba51-8fa104a099e8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/Account_TC_013</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8c1aa8ce-9804-414e-8673-c37966c999ec</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ab20d665-f144-454b-bbe9-8e2f4fb7c6d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/Account_TC_010_011</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ac602804-cbe8-4c03-87db-bd889ebb8d27</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>888bcc31-0984-4756-998e-5a763a25699f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/Account_TC_009_018</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>39d9824c-3ffd-470b-81f7-b091e3b72f3d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e01a886a-4559-4d25-a99b-bbda22eb0a21</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>338a4be4-f870-4f3c-92f5-355ba94230af</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0d7ca383-2f40-41a8-abf6-fbf8a9648968</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HomePage/HomePage_TC_005_006</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>67346ab1-2fd5-4041-b308-0a87fe60fc11</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>09ae6551-f190-4489-9987-04a728111b0b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HomePage/HomePage_TC_003</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>03a32db5-c908-4709-81a9-e9466db329ec</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>33c4786e-2a54-49a5-85bb-5474c7c4a83d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HomePage/HomePage_TC_002</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>02c00363-7a4c-427e-870c-3e3eb1ee95a6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7ebb4443-c01c-4e12-9b51-2fabbc56d8a8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HomePage/HomePage_TC_001_004</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8a17b439-97b9-47d6-a4a1-a38c7aa457f8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a654e636-9cfe-419b-a4ee-a3585e89ee53</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Search/TC_020_022_023_024</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d264f2a4-51e3-4e7e-ac53-fc2a1fe08088</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

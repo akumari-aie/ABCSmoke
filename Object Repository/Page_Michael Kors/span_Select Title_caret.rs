@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Title_caret</name>
+   <tag></tag>
+   <elementGuidId>de8f8358-3a1b-4246-8501-a6a35d3f4333</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='add-shipping-address']/div[5]/div/div[2]/div/div/div/div/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-shipping-address&quot;)/div[@class=&quot;row row--push-05&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;row row--push-15&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;form-group select-container&quot;]/div[@class=&quot;input-validation-container&quot;]/div[@class=&quot;btn-group bootstrap-select new_ay_dropdown form-control&quot;]/button[@class=&quot;main_dropdown_new_ay btn dropdown-toggle btn-default&quot;]/span[@class=&quot;caret&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='add-shipping-address']/div[5]/div/div[2]/div/div/div/div/button/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

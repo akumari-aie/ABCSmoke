@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__Select-arrow</name>
+   <tag></tag>
+   <elementGuidId>0f07578a-9673-482d-afb6-a3a3747ba175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/section/div[2]/section/div[2]/div/div[3]/div[2]/div/div/div/span[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Select-arrow</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;mk-pdp-page&quot;]/section[@class=&quot;row pdp-main aria-restricted page-body-wrapper page-padding&quot;]/div[@class=&quot;panel content-wrapper&quot;]/section[@class=&quot;row pdp-main-content restricted-content&quot;]/div[@class=&quot;product-details-container column pdp-wrapper small-12 medium-12 large-6&quot;]/div[@class=&quot;commerce-area-wrapper large-9 pdp-main-commerce&quot;]/div[@class=&quot;pdp-quantity-container&quot;]/div[@class=&quot;quantity-selector&quot;]/div[@class=&quot;select-wrapper notranslate PID-30H7GV6T8L&quot;]/div[@class=&quot;Select has-value is-clearable is-focused is-open Select--single&quot;]/div[@class=&quot;Select-control&quot;]/span[@class=&quot;Select-arrow-zone&quot;]/span[@class=&quot;Select-arrow&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/section/div[2]/section/div[2]/div/div[3]/div[2]/div/div/div/span[3]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

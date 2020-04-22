@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout_TC_040</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9acd9ebf-3d9e-4da8-918d-92f970a0e31b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1b89bc6-f01a-4769-b790-63133ba4451e</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

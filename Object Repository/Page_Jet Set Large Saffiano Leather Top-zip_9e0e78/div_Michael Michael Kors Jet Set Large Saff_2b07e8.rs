@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Michael Michael Kors Jet Set Large Saff_2b07e8</name>
+   <tag></tag>
+   <elementGuidId>d3dbb9a4-ec14-4ecd-95f4-1969e1cc6465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fluidConfigure']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fluidConfigure</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Michael Michael Kors Jet Set Large Saffiano Leather Top-Zip Tote Bag Current Configuration Store Style #: 30F2GTTT8L      Mouse over to zoom     Start OverStart Over AddAddView SnapshotsView Snapshots0   Surprise MeSurprise Me Post to galleryPost to gallery     ACORNColorACORNColorACORNCloseColorChoose your base colorJet Set Large Saffiano Leather Top-Zip Tote Bag £225.00ColorBLACKBLACKACORNACORNADMIRALADMIRALSOFT PINKSOFT PINKGREENMonogramANUMonogramCloseMonogramAdd up to 3 characters Complimentary0 - 3 CharactersSELECT MONOGRAM COLORGREENSELECT MONOGRAM COLORSELECT MONOGRAM COLORGLITTER GOLDGLITTER GOLDGLITTER SILVERGLITTER SILVERGOLDGOLDSILVERSILVERYELLOWYELLOWORANGEORANGEGREENGREENREDREDPINKPINKMERLOTMERLOTNAVYNAVYROYAL BLUEROYAL BLUEBLACKBLACKSELECT MONOGRAM PLACEMENTFrontSELECT MONOGRAM PLACEMENTFrontSELECT MONOGRAM PLACEMENTFrontBackSELECT MONOGRAM SIZEFont - TNR - 11mmSELECT MONOGRAM SIZEFont - TNR - 11mmSELECT MONOGRAM SIZEFont - TNR - 11mmFont - TNR - 6mm    Total £225.00    Monogramming is free of charge. Monogrammed items are final sale and may not be exchanged.  Add to BagAdd to Bag  PrintPrint         Additional Information   Product Details 100% Saffiano LeatherGold-Tone Hardware15&quot;W X 10&quot;H X 4.5&quot;DExterior Details: 2 Side PocketsInterior Details: Zip Pocket, Phone Pocket, 3 Slit Pockets, Key FobLining: 100% PolyesterTop-Zip FasteningImported   Important Notes This item cannot be returned or exchanged once it has been monogrammed.   Get Inspired    </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluidConfigure&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='fluidConfigure']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/section/div[2]/div[2]/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jet set large saffiano leather top-zip tote bag'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_060</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39a650ad-836c-42e6-839d-c032850620ad</testCaseGuid>
+   <variable>
+      <defaultValue>'To verify the video products in quick view and PDP'</defaultValue>
+      <description></description>
+      <id>43b062e1-3d88-4072-98cf-cbd1f4f893dc</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

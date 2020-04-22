@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomePage_TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad83dc0f-d6af-49fd-814a-630ed73ca548</testCaseGuid>
+   <variable>
+      <defaultValue>'To verify the system behaviour when user search for the store from footer section.'</defaultValue>
+      <description></description>
+      <id>02c00363-7a4c-427e-870c-3e3eb1ee95a6</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

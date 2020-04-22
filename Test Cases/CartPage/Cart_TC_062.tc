@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cart_TC_062</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f15011cc-b70a-478d-a7ba-87b4acd42a24</testCaseGuid>
+   <variable>
+      <defaultValue>' Verify the display of product recommendations in empty cart and wishlist landing page'</defaultValue>
+      <description></description>
+      <id>58da1761-23fc-4c12-adb1-a41a5c6c6b89</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

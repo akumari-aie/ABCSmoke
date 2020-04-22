@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account_TC_009_018</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9e1cec2-fc6a-4a1e-ab35-107e16e0910f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39d9824c-3ffd-470b-81f7-b091e3b72f3d</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e01a886a-4559-4d25-a99b-bbda22eb0a21</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Verify that guest user is able to Create account and Default language preference section in profile'</defaultValue>
+      <description></description>
+      <id>338a4be4-f870-4f3c-92f5-355ba94230af</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

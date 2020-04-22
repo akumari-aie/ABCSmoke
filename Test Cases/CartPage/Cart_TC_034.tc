@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cart_TC_034</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72b72228-8c77-4ea9-8677-e3b056e74979</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that user able to add a product from &quot;You might like&quot; section of Cart page.'</defaultValue>
+      <description></description>
+      <id>470ab18a-9552-4a1a-9319-1ebd71eb40f6</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

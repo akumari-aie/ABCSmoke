@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account_TC_010_011</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b8b7239-8ee6-4445-ba10-5351891b6989</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that user able to Sign in and Sign out with Remember me checkbox through SignIn Overlay'</defaultValue>
+      <description></description>
+      <id>ac602804-cbe8-4c03-87db-bd889ebb8d27</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

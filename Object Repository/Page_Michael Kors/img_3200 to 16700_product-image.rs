@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_3200 to 16700_product-image</name>
+   <tag></tag>
+   <elementGuidId>b5eeb87e-9c30-48aa-9d97-c7f26302477e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='pageBodyWrapper']/div/div/div/main/div[3]/ul/li[2]/div/div/a/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//michaelkors.scene7.com/is/image/MichaelKors/MSTR101488-9999_IS?$categoryMediumNew$&amp;fmt=pjpeg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sequined Puffer Jacket, Logo T-Shirt, Jean, Whitney Shoulder Bag, Keke Pump</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-altsrc</name>
+      <type>Main</type>
+      <value>//michaelkors.scene7.com/is/image/MichaelKors/MSTR101488-9999_IS?$categoryMediumNew$&amp;fmt=pjpeg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>//michaelkors.scene7.com/is/image/MichaelKors/MSTR101488-9999_IS?$categoryMediumNew$&amp;fmt=pjpeg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageBodyWrapper&quot;)/div[@class=&quot;panel content-wrapper&quot;]/div[@class=&quot;result-panel&quot;]/div[@class=&quot;restricted-content row&quot;]/main[@class=&quot;medium-12 small-12 large-9 columns result-container panel plpIPADmainContainer&quot;]/div[@class=&quot;medium-12 row panel tile-listing&quot;]/ul[@class=&quot;product-wrapper product-wrapper-four-tile&quot;]/li[@class=&quot;product-tile left small-6 medium-3&quot;]/div[@class=&quot;product-tile-container&quot;]/div[@class=&quot;image-panel hover&quot;]/a[1]/div[@class=&quot;product-image-container&quot;]/div[1]/div[@class=&quot;LazyLoad is-visible is-loaded&quot;]/img[@class=&quot;product-image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='pageBodyWrapper']/div/div/div/main/div[3]/ul/li[2]/div/div/a/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sequined Puffer Jacket, Logo T-Shirt, Jean, Whitney Shoulder Bag, Keke Pump']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/a/div/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

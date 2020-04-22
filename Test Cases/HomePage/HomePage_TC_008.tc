@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomePage_TC_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52d95ab8-45ea-4ef0-8933-9fb9e0d5d12b</testCaseGuid>
+   <variable>
+      <defaultValue>'To verify that IP detection overlay is displayed, when user access the Site by changing the domain in browser URL manually.'</defaultValue>
+      <description></description>
+      <id>64d8a3f0-6d02-4915-be73-4999b7a90fa4</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

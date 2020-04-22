@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account_TC_013</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e8340d1-1b5b-4d40-b899-631c191a8c16</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that user is able to edit the customer profile'</defaultValue>
+      <description></description>
+      <id>8c1aa8ce-9804-414e-8673-c37966c999ec</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

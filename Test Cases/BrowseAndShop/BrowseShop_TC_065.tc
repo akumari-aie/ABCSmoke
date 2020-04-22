@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_065</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f2abff8-5bf2-44b2-80ba-ed57d8922236</testCaseGuid>
+   <variable>
+      <defaultValue>'To verify Klarna message widget text is displaying in PDP and Shopping Cart page'</defaultValue>
+      <description></description>
+      <id>d55a0360-8bdf-4bfb-8058-e2b59ac1827d</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_057</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf23d6fb-a002-4e2b-a7d8-842528738e52</testCaseGuid>
+   <variable>
+      <defaultValue>'To verify the ability to allow the shopper to sort by ‘New Arrivals'</defaultValue>
+      <description></description>
+      <id>5d16605b-97cf-4912-b2c3-889fccd7c9ff</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

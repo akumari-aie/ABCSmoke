@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_064</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44288ae4-cfef-4a68-81bf-d29c5c826a3e</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify the Click and collect functionality in PDP and able to add C&amp;C item to cart to proced to checkout page'</defaultValue>
+      <description></description>
+      <id>617a10c0-6f24-4054-8371-5f3131b09f06</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

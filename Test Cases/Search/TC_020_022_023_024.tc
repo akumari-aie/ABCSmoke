@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_020_022_023_024</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b823458a-8058-4fb2-b181-7b37430a4873</testCaseGuid>
+   <variable>
+      <defaultValue>'TC_20,22: Verify the display of Search results page for keyword/product/Color/Invalid Keyword TC_23: User is able to navigate to the PDP page by clicking on Product name, image, price, TC_24: Verify fubctionality of  browser back button from PDP page.'</defaultValue>
+      <description></description>
+      <id>d264f2a4-51e3-4e7e-ac53-fc2a1fe08088</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

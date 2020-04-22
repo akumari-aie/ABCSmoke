@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YELLOW_fc-swatch</name>
+   <tag></tag>
+   <elementGuidId>cc0a47a1-23a7-40ea-ab30-db5322fc095a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='fc-attribute-value-swatch fc-swatch-selected'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-swatch</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>YELLOW</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_3_container&quot;)/div[@class=&quot;fc-swatch-group&quot;]/div[@class=&quot;fc-outline-target fc-preview-enabled fc-swatch-ca fc-swatch-ca-monogram_color fc-swatch-ca-79278 fc-swatch-av-83543 fc-swatch-ca-monogram_color-av-83543&quot;]/span[@class=&quot;fc-attribute-value-swatch fc-swatch-selected&quot;]/div[@class=&quot;fc-button-pair&quot;]/div[@class=&quot;fc-button fc-fancy-button&quot;]/span[@class=&quot;fc-button-label&quot;]/span[1]/span[@class=&quot;fc-swatch&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_3_container']/div/div[5]/span/div/div/span/span/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span/div/div/span/span/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

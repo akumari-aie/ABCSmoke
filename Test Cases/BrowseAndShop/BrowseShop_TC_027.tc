@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_027</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79897631-d62d-4357-97d2-8174133e9044</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify the recommended products are coming from the RFK'</defaultValue>
+      <description></description>
+      <id>a7dd55f1-cbe5-4beb-95cf-3d06f4af83bd</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

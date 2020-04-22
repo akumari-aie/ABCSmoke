@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_Monogram_063_054</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96a5610a-ec7a-44e6-87dd-75fd21fd5eea</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify the functionality of Monogramming, ADD, Edit and Delete monograme Text/product from Cart.'</defaultValue>
+      <description></description>
+      <id>8c71171b-9775-436b-b119-06e773ef29b1</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

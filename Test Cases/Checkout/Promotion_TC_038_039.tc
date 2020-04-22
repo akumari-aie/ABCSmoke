@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Promotion_TC_038_039</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27dbfb4d-fb7f-4d49-87f1-a84e2748502d</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that Guest Users is able to apply Employee Promotions and employee cannot purchase more than 3 quantities of the same '</defaultValue>
+      <description></description>
+      <id>3fec7588-eff7-4d4f-9ecf-8a570f8ee139</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

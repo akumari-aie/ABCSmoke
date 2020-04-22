@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout_TC_047</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edb2ab61-050c-4578-b3d3-e54e0ce6c959</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify the saving address functionality in Shipping and billing address page'</defaultValue>
+      <description></description>
+      <id>6eb3be64-5871-489a-8154-9ee6f6333e6f</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

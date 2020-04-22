@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout_TC_041_042_046</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>713f3f3c-3bad-4b4e-9302-9150927479ae</testCaseGuid>
+   <variable>
+      <defaultValue>'TC_046: Verify that user is able to add addresses from Manual address form in shipping page TC_041_042: Verify the delete address/ delete payment method and Check Gift Card balance should not be present in checkout page. TC_042: '</defaultValue>
+      <description></description>
+      <id>0b4a9054-c196-4de7-a764-68c0942a73b6</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cart_TC_032_033_035</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b639c5d-df92-412c-a988-d3e4f4297046</testCaseGuid>
+   <variable>
+      <defaultValue>'TC_33_27: Verify that user able to view the individual and order total price in Cart page, and TC_32: User able to edit Edit product in Cart. TC_35: Verify Continue shopping link from cart'</defaultValue>
+      <description></description>
+      <id>dc1653f9-652e-4454-9938-a0ebdc1f9353</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

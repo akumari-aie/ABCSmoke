@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_030</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45cce65e-3e6c-4f7f-9735-37959007c525</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify the display of size is classified with locale and also with US (EX: US12/UK16)'</defaultValue>
+      <description></description>
+      <id>250a6636-74b5-483a-a1c2-7336cff6ba15</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

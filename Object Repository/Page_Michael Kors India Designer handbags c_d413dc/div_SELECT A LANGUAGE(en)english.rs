@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SELECT A LANGUAGE(en)english</name>
+   <tag></tag>
+   <elementGuidId>4739ae00-47a2-415b-ad0a-8fd12b5d1723</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-aria-modal-dialog']/div/div[2]/div[4]/div/ul[2]/div/div[3]/li/div/ul[3]/li[13]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>language-container</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT A LANGUAGE(en)english</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-aria-modal-dialog&quot;)/div[@class=&quot;country-selector-panel&quot;]/div[@class=&quot;country-selector-subpanel&quot;]/div[@class=&quot;country-listing-box&quot;]/div[@class=&quot;country-selector-listing&quot;]/ul[@class=&quot;region-container&quot;]/div[@class=&quot;region-wrapper&quot;]/div[@class=&quot;col-region-3 col-region-double-width&quot;]/li[@class=&quot;country-region-items double-col-region-width&quot;]/div[@class=&quot;country-container&quot;]/ul[@class=&quot;country-list double-column-width&quot;]/li[@class=&quot;country-selector-items GB&quot;]/div[@class=&quot;language-container&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-aria-modal-dialog']/div/div[2]/div[4]/div/ul[2]/div/div[3]/li/div/ul[3]/li[13]/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='english'])[51]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(en)'])[51]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li[13]/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

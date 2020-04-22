@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account_TC_016</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb766d60-0439-4a71-8bc0-fc433ee18e92</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that user able to add the payment to the profile'</defaultValue>
+      <description></description>
+      <id>f1e0b4d3-4870-4622-8963-225443177dd2</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

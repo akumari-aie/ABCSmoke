@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomePage_TC_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61cbb118-6f54-43b7-ba36-4a932402b5f8</testCaseGuid>
+   <variable>
+      <defaultValue>'To verify the system behaviour when user subscribe to newsletter from footer section'</defaultValue>
+      <description></description>
+      <id>03a32db5-c908-4709-81a9-e9466db329ec</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

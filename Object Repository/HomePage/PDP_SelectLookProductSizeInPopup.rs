@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PDP_SelectLookProductSizeInPopup</name>
+   <tag></tag>
+   <elementGuidId>753669a3-424b-4a45-8fe0-f208a86f9e00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='react-aria-modal-dialog']/div/div[3]/section/section/div[2]/div[2]/div[3]/ul/li//div[@class='size-deselected']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

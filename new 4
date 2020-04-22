@@ -1,0 +1,33 @@
+How to run katalon script from CMD:
+Download katalon jar 5.10.1v -> Open cmd and navigate to directory katalon 5.10.1-> generate command from Build CMD from latest version of katalon-> copy the command from katalon and paste it to CMD-> after command SPACE ListenerClassName.groovy
+Now it will start running the script from CMD.
+
+Default this is getting import in test class "import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows" for latest katalon, so it will throw error for katalon lower version.
+Need to remove this import from class, when we run from CMD.
+
+TC's arer getting failed when we execute script from CMD and only one suit is picking for parallel execution.
+We are getting the report in zip folder for parallel  execution from CMD. Still we need to work on this, why TC's are getting failed.
+
+I pasted latest katalon JRE in lower version of katalon, still TC's are getting failed.
+
+try
+{
+CustomReport.tearDownExtentReports()
+}
+catch (Throwable e) {
+    testLogger.log(Status.FAIL, 'Verification of Account creation in Failed')
+	CustomReport.tearDownExtentReports()
+}
+
+Listener is required for reporting on PASS/FAIL/ERROR
+Actually without listener report is not generating for failed TC's, so we are using listener.
+Without listener also we can get the report, but need to put the try{}/catch() block in every classes so it TC fail it will got to catch block and it will print the log.
+
+We are zipping the report on suite level afetr TestSuite.
+
+
+
+
+
+
+

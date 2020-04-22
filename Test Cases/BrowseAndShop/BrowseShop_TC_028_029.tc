@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_028_029</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83eed6ae-0a1e-4798-bb9a-fd0976e93371</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify the user is redirected to home page of the switched country From PLP/PDP'</defaultValue>
+      <description></description>
+      <id>2b755ad5-36a3-46bb-b95f-425349d8ed9c</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_026</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a15e3f5-6b42-4689-a82d-88374fa35e51</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify Logged In &amp; Guest Users is able to add a product to cart from PLP Quick view.'</defaultValue>
+      <description></description>
+      <id>1fbbb812-eb44-4e2a-b4f2-84eaa31b969d</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

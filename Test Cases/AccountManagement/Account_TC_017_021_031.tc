@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account_TC_017_021_031</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79b0539a-4358-41a9-99fe-17ce2f7316b8</testCaseGuid>
+   <variable>
+      <defaultValue>'TC_17: Verify that user is able to add Products to favorites,\r\nTC_021: Verify user is able to Edit and Remove product from Favorite page.\r\nTC_031: Verify that user is able to add favorite product to Cart from Favorite page.'</defaultValue>
+      <description></description>
+      <id>09def500-4c08-4358-a4c4-8ca770b06a9f</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

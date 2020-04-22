@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout_TC_036_066</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89908df1-2002-4ece-89a8-e7ea7c93a4de</testCaseGuid>
+   <variable>
+      <defaultValue>'TC_036: Verify user not able to apply Any (Order/Item/Shipping level) promotion in cart / Payment page \r\nTC_066: To verify the Klarna payment method availability in Review and Pay page'</defaultValue>
+      <description></description>
+      <id>f7f1ce62-1e1e-44b5-b257-c9ae1233732b</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

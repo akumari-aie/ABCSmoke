@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MK_Prod 2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>e225712d-4f9d-4e8b-8a6f-380d0e017a92</testSuiteGuid>
+   <testCaseLink>
+      <guid>486debee-c69a-40fa-9d3e-f39e30a18e15</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout/Promotion_TC_038_039</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3fec7588-eff7-4d4f-9ecf-8a570f8ee139</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>676d3ca1-264b-42fb-be29-63d96e619941</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout/Checkout_TC_047</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6eb3be64-5871-489a-8154-9ee6f6333e6f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dd00e59f-00eb-49e3-8392-a69d17afbc1e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout/Checkout_TC_043_044_045</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7eada498-46ec-48d4-bd17-8282b8d6725f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c88a7322-e501-4ae3-9c14-aac17b3d16dd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout/Checkout_TC_041_042_046</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0b4a9054-c196-4de7-a764-68c0942a73b6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>90ea0de4-e0ca-437f-8d4c-e7968b5c10a8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout/Checkout_TC_040</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a1b89bc6-f01a-4769-b790-63133ba4451e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f7009c2f-6c0a-45cf-9447-90ac352eb094</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout/Checkout_TC_036_066</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f7f1ce62-1e1e-44b5-b257-c9ae1233732b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>291df3be-272b-41b9-810f-80d23b88e75a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CartPage/Cart_TC_062</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>58da1761-23fc-4c12-adb1-a41a5c6c6b89</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>03ba9086-3d9b-4855-8854-1ee2d333f37c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CartPage/Cart_TC_034</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>470ab18a-9552-4a1a-9319-1ebd71eb40f6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>69fa799f-2a38-42ee-a44e-c49a50e32970</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CartPage/Cart_TC_032_033_035</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dc1653f9-652e-4454-9938-a0ebdc1f9353</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ed540df1-fe66-464e-a907-27e8da09c8d3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_TC_060</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>43b062e1-3d88-4072-98cf-cbd1f4f893dc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>459fe898-ee13-4540-9c4a-a00af0ec1694</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_TC_057</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5d16605b-97cf-4912-b2c3-889fccd7c9ff</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3de135ef-644d-4207-9b5f-a998f5c59559</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_TC_030</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>250a6636-74b5-483a-a1c2-7336cff6ba15</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>efe26909-1246-4bed-a3c4-c410d06a3f40</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_TC_028_029</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b755ad5-36a3-46bb-b95f-425349d8ed9c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6d052abc-b5ab-4acd-86fb-b8055ebcefab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_TC_027</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a7dd55f1-cbe5-4beb-95cf-3d06f4af83bd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>af8a38b2-1591-45b5-9a9d-b949178ac243</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_TC_026</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1fbbb812-eb44-4e2a-b4f2-84eaa31b969d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>41f06ea3-da12-41aa-b640-655300a53d03</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_TC_025</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f9485b75-9e09-4ce6-8679-f59ec10ff7c7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7aaabc5b-66cd-4890-b4e7-748831739737</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BrowseAndShop/BrowseShop_Monogram_063_054</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8c71171b-9775-436b-b119-06e773ef29b1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

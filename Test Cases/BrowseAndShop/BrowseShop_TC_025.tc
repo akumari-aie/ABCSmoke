@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseShop_TC_025</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>502e57dc-c28c-450d-963d-87927fb5854d</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify that guest and logged in user able to navigate to PDP by browsing the products through department.'</defaultValue>
+      <description></description>
+      <id>f9485b75-9e09-4ce6-8679-f59ec10ff7c7</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomePage_TC_001_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78f302da-d12d-4721-bfb4-8ca698698cc6</testCaseGuid>
+   <variable>
+      <defaultValue>'To verify the footer and Header link section of home page.'</defaultValue>
+      <description></description>
+      <id>8a17b439-97b9-47d6-a4a1-a38c7aa457f8</id>
+      <masked>false</masked>
+      <name>testCaseDescription</name>
+   </variable>
+</TestCaseEntity>
